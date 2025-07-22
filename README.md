@@ -1,4 +1,7 @@
-Hi from 3rd semester
+Hi from 3rd semester 
+
 #github01
+
 This is my first Repository.
-author anju
+
+Author anju
